@@ -1,2 +1,5 @@
 # RiftLend
-Target
+
+## Discord
+- Grabe avilable role
+- Daily 10 msg
